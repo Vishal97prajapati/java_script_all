@@ -39,3 +39,35 @@ let somenumber = 45;
 
 let stringnumber = String(somenumber);
 console.log(typeof stringnumber);
+
+
+
+//******************************* operations**********************//
+
+ let value = 3
+ let negvalue = -value
+ console.log(negvalue)
+
+
+
+
+ // how to add basic string
+
+
+ let str1 = "hello"
+  let str2 = " vishal"
+   let str3 = str1 + str2
+    console.log(str3)
+
+
+
+    let gamecounter = 100
+    gamecounter ++;
+    console.log(gamecounter)
+
+
+    let gamecounter2 = 100
+    ++gamecounter;
+    console.log(gamecounter2)
+
+
